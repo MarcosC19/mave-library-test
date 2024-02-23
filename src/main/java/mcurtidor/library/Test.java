@@ -1,4 +1,4 @@
-package com.example;
+package mcurtidor.library;
 
 public class Test {
     public static void HelloWorld() {
